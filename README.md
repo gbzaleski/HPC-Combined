@@ -1,2 +1,4 @@
-# HPC-Cuda-kcliques
-Cuda project for fast, concurrent counting of cliques in large graphs
+## HPC-Combined
+# Cuda kcliques
+
+# MPI - Multi dimensional parallel Cannon multiplication of dense matrices
