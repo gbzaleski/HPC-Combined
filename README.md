@@ -1,4 +1,4 @@
-## HPC-Combined
-# Cuda kcliques
+# HPC-Combined
+## Cuda kcliques
 
-# MPI - Multi dimensional parallel Cannon multiplication of dense matrices
+## MPI - Multi dimensional parallel Cannon multiplication of dense matrices
